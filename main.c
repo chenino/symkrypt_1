@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(int argc, char* argv){
-    print("Startup");
+int main(int argc, char* argv[]){
+    printf("Startup");
 
     return 0;
 }
